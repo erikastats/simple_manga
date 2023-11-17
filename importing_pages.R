@@ -25,4 +25,5 @@ get_imageurl <- function(url_pages){
     bind_cols(manga_page = 1:nrow(df_imaged))
   df_imaged
 }
-
+# git remote add simple_manga https://github.com/erikastats/simple_manga
+  
