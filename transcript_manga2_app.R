@@ -7,7 +7,7 @@ library(tesseract)
 library(shinyWidgets)
 
 url_image <- 'https://tenseikizokunoisekaiboukenroku.com/images/mwfjkInNneO0QH5SJRWX1611713201.jpg'
-eng <- tesseract("eng")
+eng <- tesseract("eng") 
 
 
 # Function to clean oct transcription -------------------------------------
